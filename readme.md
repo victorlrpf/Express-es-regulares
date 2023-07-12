@@ -10,3 +10,5 @@ Nos codigos aqui estão exemplos de como utilizar expressões regulares com pyth
 
 <strong>Função Finfall</strong>
 - Essa função encontra todos os correspondentes em uma string, fazendo ele ser retornado em um print.
+
+A unica importação realizada é a re
